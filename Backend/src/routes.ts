@@ -9,6 +9,7 @@ import ItemsController from "./controllers/ItemsController";
 routes.get("/items", ItemsController.index);
 
 routes.get("/points/:id", PointsController.show);
+routes.get("/points", PointsController.index);
 routes.post("/points", PointsController.store);
 
 export default routes;
