@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: EPERM: operation not permitted, unlink 'C:\Users\Martins20\www\nlw\Frontend\mobile\node_modules\@babel\compat-data\node_modules\.bin'
+  Error: EPERM: operation not permitted, unlink 'C:\Users\Martins20\www\nlw\Mobile\node_modules\@babel\compat-data\node_modules\.bin'
 
 npm manifest: 
   {
